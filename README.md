@@ -27,9 +27,9 @@ git clone https://github.com/marcus88santos/t7-oracle-next-education-challenge-a
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-| [![My Skills](https://skillicons.dev/icons?i=html)]() | [![My Skills](https://skillicons.dev/icons?i=css)]() | [![My Skills](https://skillicons.dev/icons?i=js)]() |       | [![My Skills](https://skillicons.dev/icons?i=react)]() |
-| :---------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | ----- | ------------------------------------------------------ |
-|                         HTML                          |                         CSS                          |                     Javascript                      | React |
+| [![My Skills](https://skillicons.dev/icons?i=html)]() | [![My Skills](https://skillicons.dev/icons?i=css)]() | [![My Skills](https://skillicons.dev/icons?i=js)]() | [![My Skills](https://skillicons.dev/icons?i=react)]() |
+| :---------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------ |
+|                         HTML                          |                         CSS                          |                     Javascript                      | React                                                  |
 
 <br />
 
