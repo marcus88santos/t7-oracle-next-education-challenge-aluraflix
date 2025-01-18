@@ -21,6 +21,13 @@ Acesse o projeto clicando [aqui](https://marcus88santos.github.io/t7-oracle-next
 
 ```
 git clone https://github.com/marcus88santos/t7-oracle-next-education-challenge-aluraflix.git
+cd t7-oracle-next-education-challenge-aluraflix
+```
+```
+npm install
+```
+```
+npm start
 ```
 
 <br />
