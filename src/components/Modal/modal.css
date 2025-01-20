@@ -1,0 +1,100 @@
+.modal-container {
+  background-color: rgba(0, 0, 0, 0.7);
+  bottom: 0;
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100vw;
+  z-index: 1;
+}
+
+.modal {
+  background-color: #03122F;
+  border-radius: 24px;
+  border: 5px solid #6BD1FF;
+  display: flex;
+  flex-direction: column;
+  margin-top: 350px;
+  z-index: 2;
+}
+
+.modal svg {
+  align-self: end;
+  color: white;
+  height: 40px;
+  width: 40px;
+}
+
+.modal-form {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding-inline: 16px;
+}
+
+.modal-form h2 {
+  align-self: center;
+  color: #2271D1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  margin-block: 16px 40px;
+}
+
+.modal-form label {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.modal-form input, .modal-form textarea {
+  background-color: transparent;
+  border: 3px solid #2271D1;
+  border-radius: 10px;
+  color: #a5a5a5;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px;
+  margin-bottom: 32px;
+  padding: 16px 8px;
+}
+
+.modal-form input {
+  height: 24px;
+}
+
+.modal-form input::placeholder, .modal-form textarea::placeholder {
+  color: #a5a5a5;
+}
+
+.modal-form input:focus, .modal-form textarea:focus {
+  outline-style: solid;
+  outline-width: 2px;
+  outline-color: #2271D1;
+}
+
+.modal-form textarea {
+  height: 155px;
+  resize: none;
+}
+
+.modal-form nav {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.btn-modal.btn-highlight {
+  background-color: rgba(0, 0, 0, 0.9);
+  box-shadow: inset 0 0 10px 6px  rgb(34, 113, 209, .5);
+}
+
+.btn-modal {
+  border: 3px solid;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-around;
+  width: 180px;
+}
